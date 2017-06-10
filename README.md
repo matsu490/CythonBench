@@ -1,4 +1,4 @@
-cython_bench
+Cython bench
 ====
 
 ![demoimage](./demoimage.png)
@@ -19,7 +19,7 @@ Benchmark script for cython
 
 # Install
 Clone this repository to your local machine with following command  
-`$ git clone git@github.com:matsu490/MNISTer.git`  
+`$ git clone git@github.com:matsu490/CythonBench.git`  
 
 # Author
 [matsu490](https://github.com/matsu490)
