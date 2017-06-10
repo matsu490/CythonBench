@@ -18,7 +18,7 @@ Benchmark script for cython
 `$ python main.py`
 
 # Install
-Clone this repository to your local machine with following command
+Clone this repository to your local machine with following command  
 `$ git clone git@github.com:matsu490/MNISTer.git`  
 
 # Author
